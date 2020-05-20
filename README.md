@@ -1,5 +1,5 @@
 ﻿#Star Wars 
 
-![./star.png](testando a imagem)
+![](./star.png)
 
 Mensagem: Essa pasta foi criada para testar meus conhecimentos na ferramenta Git
